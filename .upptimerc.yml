@@ -9,7 +9,7 @@ sites:
     url: https://blog.liblaf.top
   - name: CDN
     url: https://cdn.liblaf.top
-  - name: wydyf
+  - name: WYDYF
     url: https://wydyf.liblaf.top
 
 status-website:
