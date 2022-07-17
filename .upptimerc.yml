@@ -9,7 +9,7 @@ sites:
     url: https://blog.liblaf.top
   - name: CDN
     url: https://cdn.liblaf.top
-  - name: "未央书院答疑坊"
+  - name: wydyf
     url: https://wydyf.liblaf.top
 
 status-website:
