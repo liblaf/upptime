@@ -5,6 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: Home
     url: https://liblaf.top
+  - name: Status
+    url: https://status.liblaf.top
   - name: Blog
     url: https://blog.liblaf.top
   - name: CDN
