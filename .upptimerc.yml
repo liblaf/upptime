@@ -9,10 +9,12 @@ sites:
     url: https://status.liblaf.top
   - name: Blog
     url: https://blog.liblaf.top
-  - name: CDN
-    url: https://cdn.liblaf.top
+  - name: Drive
+    url: https://drive.liblaf.top
   - name: WYDYF
     url: https://wydyf.liblaf.top
+  - name: CDN
+    url: https://cdn.liblaf.top
 
 status-website:
   theme: dark
